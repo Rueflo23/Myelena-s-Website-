@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    border: 2px solid rgb(249, 249, 249);
+    color: white;
+    text-shadow: 3px 2.5px 3px white, -4px -3px 4px rgb(4, 0, 255);
+    text-align: center;
+    margin-top: -6px;
+}
+body{
+    background-image: url(images/guanajuato-mexico.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover; 
+    
+}
+p{
+    color: rgb(249, 249, 249);
+    text-shadow: 4px 3px 9px black;
+}
+div{
+    border: 2px solid whitesmoke;
+    height: 180px;
+    overflow: auto;
+    position: relative;
+    float: left;
+    padding: 6.5px;
+    font-size: 20px;
+}
+video{
+    position: relative;
+    left: 300px;
+   
+}
+#gto{
+    position: relative; 
+    top: 25px;
+}
+
+
+
+
+
+    
