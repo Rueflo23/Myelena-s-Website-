@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+}
+div{
+    border: 1.5px solid;
+    padding: 20px;
+
+}
+#demon{
+    background-image: url("hashira.jpg");
+    background-repeat: no-repeat;
+    background-attachment:local;
+    background-position: center;
+    background-size: cover;
+  
+}
+#hunter{
+    background-image: url("solo\ leveling\ .avif");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    background-size: cover;
+
+}
+#knights{
+    background-image: url("knights2.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+}
+body{
+    color:white;
+    text-shadow: 4px 4px 2px black, 4px -4px 4px black;
+    background-color: black
+}
+#demon p{
+    font-family: sans-serif;
+}
+#demon li{
+    font-family: sans-serif;
+}
+#hunter p{
+    font-family: sans-serif;
+}
+#hunter li{
+    font-family: sans-serif;
+}
+#knights p{
+    font-family: sans-serif;
+}
+#knights li{
+    font-family: sans-serif;
+}
+
