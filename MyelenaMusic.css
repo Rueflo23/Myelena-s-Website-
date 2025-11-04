@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("images/SanrioWallpaper.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+audio{
+    border: 8px dotted white;
+    border-radius: 50px ;
+    box-shadow: 4px 5px 9px white, 7px 5px 9px hsla(0, 0%, 0%, 0.754) ;
+    margin-top: 3%;
+}
+img{
+    height: 300px;
+    width: 310px;
+    box-shadow: 4px 4px 9px black;
+}
+.container .mac{
+width: 35%;
+display: inline-block;
+float: left;
+padding: 10px;
+
+}
+.container .Greedo{
+width: 37%;
+display: inline-block;
+float: left;
+padding: 10px;
+
+}
+.container .clairo{
+width: 20%;
+display: inline-block;
+float: left;
+padding: 10px;
+}
+
+
+
